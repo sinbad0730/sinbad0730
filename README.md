@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gerardo+👋;Senior+Frontend+%2B+Backend+Developer;Open+Source+Contributor;Lifelong+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mori Haruto+👋;Senior+Frontend+%2B+Backend+Developer;Open+Source+Contributor;Lifelong+Learner+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/gerardo"><img src="https://img.shields.io/badge/-Gerardo-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Mori"><img src="https://img.shields.io/badge/-Mori-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://mywebsite.com"><img src="https://img.shields.io/badge/-Portfolio-%23FF7139?style=flat-square&logo=Firefox&logoColor=white" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
